@@ -4,7 +4,7 @@ song="";
 objects=[];
 
 function preload(){
-    song=loadSound("alarm.mp3");
+ song=loadSound("alarm.mp3")
 }
 
 function setup(){
